@@ -1,0 +1,5 @@
+{
+"classes": {"0": "HC", "1": "PD", "2": "DD"},
+"movement_groups": {"Resting tasks": ["Relaxed1", "Relaxed2", "RelaxedTask1", "RelaxedTask2"], "Postural tasks": ["StretchHold", "HoldWeight", "Entrainment1", "Entrainment2"], "Kinetic tasks": ["DrinkGlas", "CrossArms", "TouchNose"]},
+"questionnaire_groups": {"Gastrointestinal tract": ["NMS_01", "NMS_03", "NMS_04", "NMS_05", "NMS_06", "NMS_07"], "Urinary tract": ["NMS_08", "NMS_09"], "Pain (unrelated to other causes)": ["NMS_10"], "Miscellaneous": ["NMS_11", "NMS_28", "NMS_29"], "Apathy/attention/memory": ["NMS_12", "NMS_13", "NMS_15"], "Distortion of perception": ["NMS_02", "NMS_14", "NMS_30"], "Depression/anxiety/anhedonia": ["NMS_16", "NMS_17"], "Sexual function": ["NMS_18", "NMS_19"], "Cardiovascular": ["NMS_20", "NMS_21", "NMS_27"], "Sleep/fatigue": ["NMS_22", "NMS_23", "NMS_24", "NMS_25","NMS_26"]}
+}
