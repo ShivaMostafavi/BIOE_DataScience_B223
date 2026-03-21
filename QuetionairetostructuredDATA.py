@@ -4,7 +4,7 @@ Questionnaire Data Processor for PADS Parkinson's Disease Dataset
 This module processes questionnaire JSON files from the PADS dataset and converts
 them into wide-format CSV files suitable for machine learning analysis.
 
-Author: [Your Name]
+Author: Shiva
 Date: 2026-03-17
 """
 
